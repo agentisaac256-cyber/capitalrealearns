@@ -1,0 +1,21 @@
+{
+  "name": "realearns-estates",
+  "version": "1.0.0",
+  "description": "RealEarns-Estates - Real Estate Investment Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bikes",
+    "ai",
+    "investment",
+    "rental"
+  ],
+  "author": "RealEarns-Estates",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
